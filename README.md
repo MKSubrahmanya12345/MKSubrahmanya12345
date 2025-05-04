@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MKSubrahmanya12345
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on making useful websites
+- 👀 I’m interested in web development, different front end technologies.
+- 🌱 I’m currently learning DSA using C++ language
 - 📫 How to reach me instaid: mk_subrahmanya
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Still working on one!
