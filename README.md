@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MKSubrahmanya12345
-- 👀 I’m interested in web development, different front end technologies.
+- 👀 I’m interested in web development, different front end technologies, Machine Learning using scikit-learn using python
 - 🌱 I’m currently learning DSA using C++ language
 - 📫 How to reach me instaid: mk_subrahmanya
 - 😄 Pronouns: he/him
