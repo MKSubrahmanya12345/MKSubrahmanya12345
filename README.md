@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @MKSubrahmanya12345
+  
+- <h1 align="center">Hi 👋, I'm M K Subrahmanya</h1>
+
 - 👀 I’m interested in web development, different front end technologies, Machine Learning using scikit-learn using python
 - 🌱 I’m currently learning DSA using C++ language
 - 📫 How to reach me instaid: mk_subrahmanya
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Still working on one!
 
-- [![M K Subrahmanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKSubrahmanya12345)](https://github.com/anuraghazra/github-readme-stats)
 
-- <h1 align="center">Hi 👋, I'm M K Subrahmanya</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mksubrahmanya12345&label=Profile%20views&color=0e75b6&style=flat" alt="mksubrahmanya12345" /> </p>
