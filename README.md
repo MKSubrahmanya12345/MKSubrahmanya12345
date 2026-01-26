@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mksubrahmanya12345&label=Profile%20views&color=0e75b6&style=flat" alt="mksubrahmanya12345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mksubrahmanya12345" alt="mksubrahmanya12345" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -26,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mksubrahmanya12345&show_icons=true&locale=en" alt="mksubrahmanya12345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mksubrahmanya12345&" alt="mksubrahmanya12345" /></p>
+
 
 
 <!---
